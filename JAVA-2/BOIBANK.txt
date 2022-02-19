@@ -1,0 +1,22 @@
+Transaction number : 1
+Name : Farah
+Account Number : 1034
+Accont Type : CURRENT
+Deposit Request has been processed
+Balance before Deposit : 40000.0
+Balance after Deposit : 90000.0
+Transaction number : 2
+Name : Farah
+Account Number : 1034
+Accont Type : CURRENT
+Withdrawl Request has been processed
+Balance before Withdrawl : 90000.0
+Amount Withdrawn : Rs400.0
+Balance after Withdrawl : 89600.0
+Transaction number : 3
+Name : Farah
+Account Number : 1034
+Accont Type : CURRENT
+Deposit Request has been processed
+Balance before Deposit : 89600.0
+Balance after Deposit : 98155.0

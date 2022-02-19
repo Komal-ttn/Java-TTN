@@ -1,0 +1,45 @@
+Transaction number : 1
+Name : Komal
+Account Number : 1034
+Accont Type : SAVINGS
+Deposit Request has been processed
+Balance before Deposit : 50000.25
+Balance after Deposit : 52000.83
+Transaction number : 2
+Name : Komal
+Account Number : 1034
+Accont Type : SAVINGS
+Withdrawl Request has been processed
+Balance before Withdrawl : 52000.83
+Amount Withdrawn : Rs5000.24
+Balance after Withdrawl : 47000.590000000004
+Transaction number : 3
+Name : Sunny
+Account Number : 1035
+Accont Type : CURRENT
+Deposit Request has been processed
+Balance before Deposit : 5000.14
+Balance after Deposit : 59007.49
+Transaction number : 4
+Name : Sunny
+Account Number : 1035
+Accont Type : CURRENT
+Withdrawl Request has been processed
+Balance before Withdrawl : 59007.49
+Amount Withdrawn : Rs20000.5
+Balance after Withdrawl : 39006.99
+Transaction number : 1
+Name : farah
+Account Number : 1034
+Accont Type : SAVINGS
+Deposit Request has been processed
+Balance before Deposit : 4000.0
+Balance after Deposit : 404000.0
+Transaction number : 2
+Name : farah
+Account Number : 1034
+Accont Type : SAVINGS
+Withdrawl Request has been processed
+Balance before Withdrawl : 404000.0
+Amount Withdrawn : Rs20000.4
+Balance after Withdrawl : 383999.6
