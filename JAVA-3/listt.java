@@ -1,5 +1,10 @@
 import java.util.*;
 
+/*
+Question 1.
+1) Write Java code to define List . Insert 5 floating point numbers in List, and using an iterator,
+find the sum of the numbers in List.
+ */
 public class listt {
     public static void main(String args[]) {
         Scanner sc=new Scanner(System.in);
