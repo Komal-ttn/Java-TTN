@@ -1,0 +1,26 @@
+Q1) Write the following a functional interface and implement it using lambda:
+
+First number is greater than second number or not Parameter (int ,int ) Return boolean
+Increment the number by 1 and return incremented value Parameter (int) Return int
+Concatenation of 2 string Parameter (String , String ) Return (String)
+Convert a string to uppercase and return . Parameter (String) Return (String)
+
+Q2) Using (instance) Method reference create and apply add and subtract method and using (Static) Method reference create and apply multiplication method for the functional interface created
+
+Q3)Create a thread using lambda function
+
+Q4) WAP using java 8:
+
+Collect all  even numbers from a list using stream
+Given a list of objects of following class:
+           class Employee{
+           String fullName;
+           Long salary;
+           String city;
+           }
+
+          Get list of all unique firstNames of employees where their salary is less than 5000 and who live in delhi.
+          Note: Full name is concatenation of first name, middle name and last name with single space in between.
+
+
+Q5)Implement multiple inheritance with default method inside interface.

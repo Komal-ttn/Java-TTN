@@ -96,7 +96,7 @@ public class ICICI implements Bank{
     }
     public void printDetails()
     {
-        System.out.println("Bank Name : SBI");
+        System.out.println("Bank Name : ICICI");
         System.out.println("Interest Rate : "+get_interest_rate());
     }
     public void customer_details()
