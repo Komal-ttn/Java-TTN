@@ -65,15 +65,17 @@ public class question4 {
         employee.add(emp1);
         Employee emp2=new Employee("Maria Singh Rawat", 4000L,"Delhi");
         employee.add(emp2);
-        Employee emp3=new Employee("Komal Says what", 20000L,"Delhi");
+        Employee emp3=new Employee("Komal Says what", 2000L,"Delhi");
         employee.add(emp3);
         Employee emp4=new Employee("Sarthak singh Rawat", 9000L,"Mumbai");
         employee.add(emp4);
 
         System.out.println(employee.stream()
+
                         .filter(salary->salary.getSalary()<5000)
                 .filter(city->city.getCity().equals("Delhi"))               //filter is a predicate
-                .map(name->name.getFullName().split(" ")[0])    //map is a function
+                .map(name->name.getFullName().split(" ")[0])     //map is a function
+                .distinct()
                 .collect(Collectors.toList()));
 
 
